@@ -1,0 +1,501 @@
+"","Borough","ZipCode","Address","OwnerName","YearBuilt","Style_Sec","Mat_Prim","Use_Orig","Latitude.mean.x","Latitude.mean.y","complaints.count.freq"
+"3864","MN",10024,"121 WEST 85 STREET","MARRON, MARTIN GUILLE",1899,"Renaissance Revival","Brownstone","Residential",40.786162,-73.973498,1
+"6221","BK",11201,"417 HICKS STREET","",1996,"Romanesque Revival","Brick","Residential, multi-family",40.6879773333333,-73.9990913333333,3
+"9250","QN",11372,"34-22 88 STREET","FRANCIS IRACE",1935,"neo-Georgian","Red Brick","Outbuilding, garage",40.75353,-73.879325,1
+"3160","MN",10023,"72 WEST 69 STREET","TUJUNGA GARDENS LIMIT",1910,"Romanesque Revival","Brick","Residential, multi-family",40.775067,-73.979247,1
+"9211","QN",11372,"34-25 84 STREET","MR & MRS B C BLANEY",1930,"neo-Georgian","Red Brick","Residential",40.753051,-73.883004,1
+"9330","QN",11372,"35-22 88 STREET","RODRIGUEZ RAYMOND",1925,"neo-Georgian","Brick","Residential",40.751592,-73.878971,1
+"6956","BK",11215,"632 11 STREET","OWNER / AGENT",1931,"Neoclassical","Stone","Residential, multi-family",40.663714,-73.978514,1
+"6760","BK",11215,"177 8 AVENUE","CONG BETH ELOHIM",1931,"Art Deco","Cast Stone","Religious, synagogue",40.670905,-73.974157,1
+"648","MN",10003,"67 2 AVENUE","G & L ROYALTY, INC.",1920,"neo-Grec alterations","Brick","Residential",40.726316,-73.989754,1
+"3173","MN",10023,"24 WEST 70 STREET","24 WEST 70TH ST. APT.",1910,"Romanesque","Brownstone","Residential",40.775275,-73.977795,2
+"2945","MN",10010,"922 BROADWAY","BROADWAY 922 ENTERPRI",1925,"Second Empire","Brick","Residential",40.739974,-73.989542,1
+"7074","BK",11238,"310 PARK PLACE","DITTMAN, CHRISTINA",1910,"Romanesque Revival","Brownstone","Residential",40.67645,-73.967625,1
+"3893","MN",10024,"570 COLUMBUS AVENUE","100 WEST 88 STREET HD",1910,"Romanesque","Brick","Residential, multi-family",40.787556,-73.971407,1
+"7733","BK",11238,"379 WASHINGTON AVENUE","MOHAWK HOUSING ASSOC",1905,"Romanesque Revival","Brownstone","Residential, multi-family",40.687497,-73.9651465,2
+"4726","MN",10128,"1217 PARK AVENUE","SADEK WAHBA",1899,"Queen Anne","Brownstone","Residential",40.785664,-73.952796,1
+"7288","BK",11225,"203 LEFFERTS AVENUE","HAFFNER, BRIAN",1901,"French Renaissance","Brick","Residential, multi-family",40.662118,-73.954761,1
+"9523","QN",11361,"39-26 213 STREET","RUBIN, ROBERT",1901,"Colonial Revival","Wood Frame","Residential, single family",40.764795,-73.772605,1
+"3874","MN",10024,"101 WEST 86 STREET","T & J 2006,  LLC",1910,"Renaissance Revival","Brick","Residential, multi-family",40.78656,-73.972324,1
+"7781","BK",11238,"22 CLIFTON PLACE","SABATINI, CHRISTOPHER",1899,"neo-Grec","Brownstone","Residential",40.687686,-73.963773,1
+"9273","QN",11372,"34-13 87 STREET","EPSTEIN JEROME",1935,"neo-Georgian","Red Brick","Outbuilding, garage",40.753608,-73.880267,1
+"3180","MN",10023,"48 WEST 70 STREET","LYNTON MICHAEL M",1900,"neo-Grec","Brick","Residential",40.775484,-73.978293,2
+"6837","BK",11215,"579 5 STREET","LINDA MCCUTCHEON LIVI",1920,"Tudor","Not determined","Residential",40.667565,-73.975935,1
+"1811","MN",10011,"150 WEST 11 STREET","CHRISTINA HSIAO",1899,"Italianate","Brick","Residential",40.735978,-73.999711,1
+"3397","MN",10023,"140 WEST 72 STREET","140-154 W. 72 REALTY",1920,"Queen Anne","Brownstone","Mixed-use, commercial & residential",40.7779745384615,-73.9801508461538,13
+"3887","MN",10024,"165 WEST 87 STREET","ANGELLINO, ANNIE",1900,"Renaissance Revival","Stone","Residential",40.787897,-73.973403,1
+"223","MN",10013,"56 HUDSON STREET","60 HUDSON OWNERS LLC",1930,"Art Deco","Steel Frame","Commercial, offices",40.717876,-74.008939,3
+"9789","QN",11363,"301 38 ROAD","RODEHAU, FLORENCE M",1920,"Colonial Revival Cottage","Wood Frame","Residential, single-family",40.772663,-73.74689,1
+"9142","QN",11372,"34-46 83 STREET","ALI MOIED",1935,"neo-Georgian","Red Brick","Outbuilding, garage",40.752517,-73.883878,1
+"3725","MN",10024,"54 WEST 89 STREET","54 WEST 89TH STREET R",1900,"Queen Anne","Stone","Residential",40.788039,-73.969886,1
+"4480","MN",10021,"127 EAST 71 STREET","GALT GROUP HOLDINGS L",1920,"Italianate (original)","Brick","Residential",40.770026,-73.963356,1
+"6498","BK",11217,"107 PARK PLACE","SANDS, JESSICA NANCY",1920,"French","Brownstone","Residential",40.678354,-73.97485,1
+"4602","MN",10028,"12 EAST 82 STREET","1282 STREET LLC",1905,"Georgian","Red Brick","Residential, single-family",40.778658,-73.961636,1
+"3035","MN",10016,"6 SNIFFEN COURT","NORTON, GRAHAM",1901,"Vernacular","Brick","Transportation, stable",40.747166,-73.977898,1
+"8229","BK",11205,"280 CARLTON AVENUE","",1833,"Greek Revival","Brick","Residential",40.689088,-73.972051,1
+"6937","BK",11215,"586 11 STREET","HALL, MARK J",1899,"Romanesque Revival","Brownstone","Residential",40.664203,-73.979519,1
+"7798","BK",11238,"205 GREENE AVENUE","GLORIA PATTON",1899,"neo-Grec","Brownstone","Residential",40.686962,-73.963715,3
+"1590","MN",10014,"300 BLEECKER STREET","ELK 300 BLEEKER LLC",1900,"Federal (late)(original)","Flemish-Bond Brick","Mixed-use, commercial & residential",40.73256,-74.003771,2
+"7241","BK",11216,"860 ST JOHNS PLACE","HURTADO, PAOLA",1901,"Renaissance Revival","Rustic Brick","Residential",40.671588,-73.949542,2
+"3994","MN",10024,"347 WEST 84 STREET","STALLBAUMER, DAVID",1900,"neo-Grec","Brownstone","Residential",40.788025,-73.979882,1
+"8126","BK",11205,"266 CLERMONT AVENUE","NEWTOWN JETS LLC",1910,"Greek Revival","Wood Frame","Residential",40.690065,-73.970255,1
+"6771","BK",11215,"198 8 AVENUE","LCC REALTY CORP",1960,"Romanesque Revival","Limestone","Residential",40.670414,-73.975343,1
+"7726","BK",11238,"400 WASHINGTON AVENUE","WASHINGTON HOTEL CORP",1905,"Romanesque Revival","Brick","Residential",40.687047,-73.965598,1
+"5444","BX",10455,"751 KELLY STREET","CHANTEL FIELDS",1901,"Romanesque Revival (late)","Roman Brick","Residential, multi-family",40.817123,-73.899116,1
+"5192","MN",10031,"1681 AMSTERDAM AVENUE","NCM HOLDINGS LLC",1900,"Flemish","Light Brick","Mixed-use, commercial & residential",40.824031,-73.948476,1
+"7765","BK",11238,"33 CLIFTON PLACE","214 VAN BUREN LLC",1899,"neo-Grec","Brownstone","Residential",40.687768,-73.963199,4
+"287","MN",10013,"370 BROADWAY","370 BROADWAY, LLC",1915,"Queen Anne","Masonry","Commercial, store and lofts",40.717733,-74.003279,1
+"4442","MN",10065,"872 LEXINGTON AVENUE","BLUE WATER HEAD HOLDI",1910,"Italianate (original)","Stucco","Residential, multi-family",40.766167,-73.965322,2
+"7251","BK",11213,"974 ST JOHNS PLACE","ERNEST A LOGAN",1915,"Arts & Crafts","Brick","Residential, multi-family",40.6714,-73.94606,1
+"7029","BK",11238,"590 VANDERBILT AVENUE","MDK590 VANDERBILT AVE",1931,"Renaissance Revival","Brick","Residential, multi-family",40.678844,-73.968446,1
+"4440","MN",10065,"131 EAST 65 STREET","GUBERNICK  MARTIN",1899,"Italianate (original)","Stucco","Residential",40.76614,-73.965791,1
+"8567","BK",11225,"56 MIDWOOD STREET","JONES, JEFFREY MASON",1901,"neo-Renaissance","Roman Brick","Residential",40.6596,-73.958749,1
+"4178","MN",10065,"44 EAST 64 STREET","JOSIAH MACY,JR.ETC.",1910,"Queen Anne","Brownstone","Residential",40.766533,-73.968719,1
+"3312","MN",10023,"46 WEST 76 STREET","46 WEST 76TH STREET L",1910,"neo-Italian Renaissance","Brownstone","Residential",40.779361,-73.975407,1
+"718","MN",10013,"90 GRAND STREET","THOMAS STREET LLC",1900,"French","Stone","Commercial, store and warehouse",40.72172475,-74.002060375,8
+"1430","MN",10011,"15 WEST 10 STREET","SIENA REALTY INC",1899,"Italianate","Brick","Residential",40.733779,-73.996291,1
+"3574","MN",10023,"338 WEST 71 STREET","LUMMEL LYNNE",1900,"Romanesque Revival","Rock-faced Masonry","Residential",40.77944,-73.985748,1
+"4857","MN",10025,"455 CENTRAL PARK WEST","",2002,"English Gothic","Red Brick","Institutional, hospital",40.797939,-73.960115,1
+"6804","BK",11215,"605 3 STREET","WOLMAN DEREK",1901,"neo-Renaissance","Gray Brick","Residential",40.668791,-73.974979,1
+"3915","MN",10024,"175 WEST 88 STREET","175 WEST 88 T LLC",1901,"Renaissance Revival","Stone","Residential",40.788613,-73.973147,3
+"9181","QN",11372,"34-38 85 STREET","JOSE MARTINEZ",1930,"neo-Georgian","Red Brick","Residential",40.753067,-73.882083,1
+"3465","MN",10023,"113 WEST 74 STREET","105-115 WEST 74TH ST",1910,"neo-Grec","Brick","Residential",40.778997,-73.978444,2
+"4293","MN",10021,"17 EAST 71 STREET","17 EAST 71 STREET LLC",1910,"Queen Anne (original)","Stone","Residential",40.771366,-73.96654,4
+"3664","MN",10024,"30 WEST 85 STREET","MALONE, WARREN",1900,"Queen Anne","Brownstone","Residential",40.785028,-73.970844,1
+"6736","BK",11215,"28 PROSPECT PARK WEST","H LUKSIK",1901,"Romanesque Revival","Indiana Limestone","Residential, single-family",40.670545,-73.9719,1
+"3342","MN",10023,"103 WEST 69 STREET","CALLEN, ROBINSON TR",1920,"Romanesque Revival","Brownstone","Residential",40.775624,-73.980521,1
+"4409","MN",10075,"4 EAST 79 STREET","ASSADOUR O. TAVITIAN,",1910,"neo-ltalian Renaissance","Limestone Ashlar","Residential, single-family",40.77686,-73.963414,1
+"7448","BK",11233,"398 STUYVESANT AVENUE","RANDOLPH POYER",1899,"Romanesque Revival","Brownstone","Residential",40.681062,-73.931692,1
+"1125","MN",10012,"77 BLEECKER STREET","77 BLEECKER ST CORP",1930,"Contemporary","Steel Frame","Commercial, stores",40.72687425,-73.995565,4
+"8580","BK",11225,"29 RUTLAND ROAD","GONZALO, MARIA",1930,"Picturesque","Red Brick","Residential",40.658865,-73.959297,1
+"3688","MN",10024,"21 WEST 86 STREET","21 WEST 86 LLC",1927,"Romanesque","Brick","Residential, multi-family",40.785838,-73.970606,1
+"8127","BK",11205,"268 CLERMONT AVENUE","ROYER, THEODORE W",1910,"Greek Revival","Wood Frame","Residential",40.690024,-73.970248,3
+"3713","MN",10024,"41 WEST 88 STREET","JARTEC, LLC",1900,"Romanesque","Brownstone","Residential",40.787122,-73.969616,1
+"3656","MN",10024,"489 COLUMBUS AVENUE","COL,",1910,"neo-Grec","Brick","Residential, multi-family",40.784875,-73.97334,1
+"4352","MN",10021,"42 EAST 75 STREET","42 E 75TH ST OWNERS C",1910,"neo-Gothic","Stucco","Residential",40.773523,-73.963535,1
+"8831","BK",11230,"831 EAST 17 STREET","LUSTIG, ESTHER",1901,"Colonial Revival","Wood Frame","Residential, single-family",40.630322,-73.960424,1
+"8420","BK",11222,"109 NOBLE STREET","CASTRO, PASTORA",1899,"neo-Grec","Wood Frame","Residential",40.728583,-73.956181,5
+"3859","MN",10024,"165 WEST 85 STREET","OKUMURA YURI",1910,"Romanesque","Brick","Residential",40.786539,-73.974393,1
+"7456","BK",11233,"73 BAINBRIDGE STREET","WALLACE, COLETTE",1910,"neo-Renaissance","Stone","Residential",40.680624,-73.934136,3
+"9254","QN",11372,"34-28 88 STREET","CHEN, RUI",1935,"neo-Georgian","Red Brick","Residential",40.753407,-73.879304,2
+"4135","MN",10065,"19 EAST 62 STREET","19 E 62 STREET CORP",1900,"neo-Grec","Brick","Residential",40.765664,-73.970481,1
+"7059","BK",11238,"124 UNDERHILL AVENUE","KEENAN, ANNE",1899,"Renaissance Revival","Brownstone","Residential",40.676787,-73.966086,1
+"3878","MN",10024,"112 WEST 87 STREET","G & M LUCAS",1910,"Romanesque","Stone","Residential",40.787438,-73.972356,1
+"3611","MN",10024,"317 WEST 77 STREET","NINETY SIXTY LLC",1900,"English Renaissance Revival","Rock-faced Brownstone","Residential",40.78323,-73.982592,1
+"7294","BK",11225,"151 LEFFERTS AVENUE","PREUDHOMME, PATRICK",1901,"French Renaissance","Brick","Residential, multi-family",40.662039,-73.955979,1
+"3112","MN",10019,"869 9 AVENUE","WINDERMERE PROPERTIES",1900,"High Victorian Gothic","Red Brick","Residential, multi family",40.76809,-73.986148,1
+"9369","QN",11372,"35-21 87 STREET","MILLER, GABRIELLA",1930,"neo-Georgian","Red Brick","Residential",40.751527,-73.879888,1
+"1712","MN",10014,"110 WEST WASHINGTON PLCE","BRILL MARCIA",1899,"Queen Anne","Flemish-Bond Brick","Residential",40.73256,-74.001028,2
+"3292","MN",10023,"24 WEST 75 STREET","BRUSCO PARKWAY EASTAS",1910,"Queen Anne","Brownstone","Residential",40.778532,-73.975418,1
+"2000","MN",10014,"24 BANK STREET","MORTENSON, RAY",1899,"Gothic Revival","Brick","Residential",40.736988,-74.002631,2
+"3261","MN",10023,"9 WEST 73 STREET","9 WEST 73RD STREET, L",1900,"neo-Georgian","Red Brick","Residential",40.777039,-73.975769,1
+"598","MN",10013,"165 GRAND STREET","224 CENTRE REALTY LLC",1915,"Queen Anne","Brownstone","Institutional, private club",40.719556,-73.998698,1
+"6645","BK",11215,"891 UNION STREET","WOODRUFF, NANCY A",1899,"Queen Anne","Brick","Residential",40.67394,-73.974091,2
+"8432","BK",11222,"1125 LORIMER STREET","1125 LORIMER ST HSNG",1949,"neo-Federal","Red Brick","Residential, multi-family",40.728444,-73.9544705,2
+"7445","BK",11233,"280 DECATUR STREET","GRIFFITH ASQUITH D",1910,"Renaissance Revival","Stone","Residential",40.681535,-73.932603,1
+"7515","BK",11216,"91 MACON STREET","91 MACON STREET LLC",1900,"Renaissance Revival","Stone","Residential",40.681331,-73.947562,1
+"4202","MN",10065,"762 MADISON AVENUE","C/O SL GREEN REALTY C",1910,"neo-Grec","Brownstone","Residential",40.767686,-73.968437,1
+"3899","MN",10024,"162 WEST 88 STREET","CONIGLIO, ANTOINETTE",1900,"Romanesque","Brownstone","Residential",40.788495,-73.972912,3
+"7691","BK",11205,"309 WASHINGTON AVENUE","ERICA LINDSAY ASSOC",1905,"neo-Renaissance Revival","Rock-faced Brownstone","Residential, multi-family",40.6895695,-73.9660325,2
+"6061","BK",11201,"119 ATLANTIC AVENUE","ATLANTIC HENRY CONDOM",1900,"Romanesque Revival","Brick","Mixed-use, commercial & residential",40.690846,-73.996509,2
+"6686","BK",11215,"914 PRESIDENT STREET","YS SINGLE FAMILY LLC",1920,"neo-Grec","Brownstone","Residential",40.672447,-73.972364,1
+"3711","MN",10024,"53 WEST 88 STREET","BIG BEND 53W88 NY LLC",1900,"Romanesque","Brownstone","Residential",40.787226,-73.969858,1
+"3352","MN",10023,"142 WEST 70 STREET","140-142 WEST SEVENTIE",1900,"Queen Anne","Brownstone","Residential",40.776527,-73.980766,2
+"9300","QN",11372,"35-16 87 STREET","NAHAR, KAMRUN",1930,"neo-Tudor","Brick","Outbuilding, garage",40.751604,-73.879924,8
+"6504","BK",11217,"118 PARK PLACE","MUNROE, JOSEPHINE",1899,"French","Brownstone","Residential",40.6782,-73.974504,1
+"3148","MN",10023,"63 WEST 68 STREET","6368 REALTY, LLC",1907,"Queen Anne","Brownstone","Residential",40.774474,-73.979738,1
+"1775","MN",10014,"16 CHRISTOPHER STREET","EDMOND MARTIN REAL ES",1910,"neo-Grec","Brick","Residential",40.73386525,-74.0005085,4
+"4314","MN",10021,"905 MADISON AVENUE","KHEDOURI K EZAIR CORP",1920,"Queen Anne (original)","Stucco","Residential",40.772252,-73.965077,2
+"9151","QN",11372,"34-22 84 STREET","AKIYA, NATHALIE",1935,"neo-Tudor","Brick","Residential",40.75315,-73.883047,1
+"5806","BK",11201,"124 WILLOW STREET","PLATT, JANE",1831,"Eclectic-Flemish","Brick","Residential",40.697241,-73.995889,1
+"9246","QN",11372,"34-18 88 STREET","MEZA, CESAR H.",1935,"neo-Georgian","Red Brick","Outbuilding, garage",40.753615,-73.879339,1
+"7066","BK",11238,"369 PARK PLACE","SALVATORE PARDO",1931,"Renaissance Revival","Brownstone","Residential",40.675999,-73.965387,1
+"3712","MN",10024,"45 WEST 88 STREET","MARSHALL GERALD M",1900,"Romanesque","Brownstone","Residential",40.787158,-73.969695,1
+"3979","MN",10024,"309 WEST 80 STREET","CLEMENTS, JACQUELINE",1899,"Renaissance","Tan Brick","Residential, single-family",40.785151,-73.980937,4
+"2018","MN",10014,"311 WEST 4 STREET","HENRY A. PINCUS TRUST",1915,"neo-Grec","Flemish-Bond Brick","Residential",40.737221,-74.003785,2
+"212","MN",10013,"331 GREENWICH STREET","MILLNER, GIEL",1920,"Utilitarian","Cast Iron","Residential",40.71779,-74.010599,1
+"6959","BK",11215,"163 PROSPECT PARK WEST","YOSHIZUMI CORP",1999,"Classical","Not determined","Residential, multi-family",40.663316,-73.97793,1
+"1425","MN",10011,"14 WEST 11 STREET","14 WEST 11 TEN CORP",1900,"Federal","Brick","Residential",40.73435,-73.995822,1
+"4120","MN",10022,"23 BEEKMAN PLACE","RUPPERT, LLC",1930,"Second-generation Modernist","Rusticated Stone","Residential, single family",40.753476,-73.964679,1
+"9309","QN",11372,"35-36 87 STREET","YOUNG ISRAEL OF JACKS",1930,"neo-Tudor","Brick","Residential",40.75133,-73.879874,2
+"9257","QN",11372,"34-36 88 STREET","PATTERSON, CHRISTIAN",1935,"neo-Georgian","Red Brick","Residential",40.753239,-73.879271,1
+"4400","MN",10075,"7 EAST 78 STREET","7 EAST 78 STREET CORP",1920,"Italian Renaissance","Limestone","Residential, single-family",40.776125,-73.963757,1
+"4321","MN",10021,"27 EAST 73 STREET","CHARLES H.C. GERARD,",1901,"neo-Grec","Brownstone","Residential",40.772662,-73.96538,1
+"2650","MN",10011,"353 WEST 21 STREET","35321  HOLDINGS  LLC",1910,"Italianate","Brick","Residential",40.74464,-74.000895,1
+"7181","BK",11213,"928 ST MARKS AVENUE","SHABAKA, NUBIAA K",1901,"Romanesque Revival","Blonde Brick","Residential",40.674719,-73.941295,1
+"4156","MN",10065,"714 MADISON AVENUE","GARFIELD LAWRENCE 714",1940,"neo-Grec","Brownstone","Residential",40.766262,-73.969474,3
+"4466","MN",10021,"964 LEXINGTON AVENUE","PARTITA PARTNERS",1930,"Italianate (original)","Brownstone","Residential",40.769356,-73.962995,3
+"3108","MN",10019,"205 WEST 57 STREET","OSBORNE TENANTS CORP",1900,"Renaissance Revival","Rusticated Stone","Residential, multi family",40.765704,-73.980452,4
+"9755","QN",11363,"205 38 ROAD","FEBBRARO, JOANNE L",1930,"Beaux-Arts","Wood Frame","Residential, single-family",40.77173,-73.751822,2
+"5572","BK",11201,"17 OLD FULTON STREET","17 CADMAN PLAZA WEST",1925,"Italianate","Brick","Mixed-use, commercial & residential",40.702601,-73.993663,2
+"5326","MN",10032,"436 WEST 162 STREET","CESBRON, JEAN JACQUES",1899,"Classical","Rough-faced Stone","Residential",40.835381,-73.938945,1
+"801","MN",10012,"84 WOOSTER STREET","CALLIOPE REALTY ASSOC",1920,"Classical","Brick","Commercial, mercantile exchange",40.723956,-74.000714,1
+"352","MN",10013,"13 JAY STREET","JAY HOUSING CORP",1915,"neo-Grec","Cast Iron","Commercial, store and lofts",40.718043,-74.009827,2
+"6453","BK",11231,"326A PRESIDENT STREET","VICTOIR, NICOLAS BENO",1901,"neo-Grec","Brownstone","Residential",40.680434,-73.993243,1
+"8774","BK",11226,"994 OCEAN AVENUE","ANGEL & YVETTE PABON",1910,"Bungalow","Wood Frame","Residential, single-family",40.638295,-73.958784,1
+"5570","BK",11201,"51 HUDSON AVENUE","WILENSKY MARK",1920,"Italianate","Wood Frame","Mixed-use, commercial & residential",40.703423,-73.981072,1
+"5115","MN",10031,"14 HAMILTON TERRACE","GREEN, MILDRED A",1901,"Classical","Limestone","Residential",40.822246,-73.946899,1
+"4509","MN",10021,"110 EAST 73 STREET","110 EAST 73RD STREET,",1899,"neo-Renaissance","Red Brick","Residential",40.771544,-73.962763,2
+"9208","QN",11372,"34-31 84 STREET","PETER J KUHL",1930,"neo-Georgian","Red Brick","Residential",40.752941,-73.882986,1
+"4434","MN",10065,"874 LEXINGTON AVENUE","874 LEXINGTON AVE COR",1900,"Italianate (original)","Stucco","Residential, multi-family",40.766211,-73.965289,1
+"6720","BK",11215,"25 PROSPECT PARK WEST","LITTLETON, ROBERT",1901,"Classical","Roman Brick","Residential",40.670835,-73.971666,1
+"9259","QN",11372,"34-38 88 STREET","GONZALEZ, JULIO",1935,"neo-Georgian","Red Brick","Outbuilding, garage",40.753198,-73.879264,1
+"3196","MN",10023,"57 WEST 70 STREET","WEST 70TH ST ASSC",1910,"Queen Anne","Brick","Residential",40.775574,-73.978463,1
+"3307","MN",10023,"48 WEST 76 STREET","48 WEST 76TH STREET,",1901,"neo-Italian Renaissance","Brownstone","Residential",40.779378,-73.975451,1
+"6958","BK",11215,"163 PROSPECT PARK WEST","YOSHIZUMI CORP",1999,"Classical","Not determined","Residential, multi-family",40.663316,-73.97793,1
+"4084","MN",10022,"647 5 AVENUE","OLYMPICGOLD LLC",1930,"French Louis XV","Stone","Residential, single family",40.759503,-73.976483,1
+"2601","MN",10011,"449 WEST 22 STREET","158 EASTMAN, LLC",1900,"French Second Empire","Brownstone","Residential",40.746539,-74.003483,2
+"7046","BK",11238,"157 PROSPECT PLACE","MURPHY, EMMA",1910,"Second Empire","Brownstone","Residential",40.678178,-73.971273,2
+"1386","MN",10011,"64 WEST 10 STREET","64 WEST 10TH STREET,",1900,"Greek Revival (original)","Not determined","Residential",40.73424,-73.997438,1
+"7825","BK",11238,"388 VANDERBILT AVENUE","BRIDGET I BENJAMIN",1899,"neo-Grec","Brownstone","Residential",40.685626,-73.968346,1
+"5682","BK",11201,"8 OLD FULTON STREET","8 FULTON CORP",1915,"British 19th century Commercial","Brick","Commercial, offices",40.702969,-73.994666,1
+"4860","MN",10025,"881 AMSTERDAM AVENUE","AMERICAN YOUTH HOSTEL",1950,"neo-Grec","Red Brick","Institutional, charitable, nursing home",40.798838,-73.966865,3
+"3519","MN",10024,"145 WEST 78 STREET","145 WEST 78TH STREET,",1900,"Romanesque Revival","Stone","Residential",40.781835,-73.977302,1
+"4075","MN",10017,"547 5 AVENUE","NEW YORK FRENCH SOUND",1927,"Near Eastern","Steel Frame","Commercial, offices",40.755617,-73.979318,2
+"4342","MN",10021,"39 EAST 74 STREET","THE PERMANENT MISSION",1920,"Queen Anne (original)","Brick","Residential",40.77296,-73.96412,3
+"2677","MN",10011,"140 WEST 18 STREET","NEW YORK AIKIKAI LTD",1920,"Rundbogenstil","Brick","Transportation, stable",40.740375,-73.996261,1
+"4492","MN",10021,"737 PARK AVENUE","",1940,"Classicizing Art Deco","Steel Frame","Residential, multi-family",40.770564,-73.964204,3
+"714","MN",10013,"55 MERCER STREET","MKFH LLC",1900,"French Second Empire","Cast Iron","Commercial, stores",40.72187,-74.000934,1
+"3347","MN",10023,"130 WEST 70 STREET","130 WEST 70 LLC",1910,"Queen Anne","Brownstone","Residential",40.7764646666667,-73.980621,3
+"9261","QN",11372,"34-42 88 STREET","WILLIAM P FALLON",1935,"neo-Georgian","Red Brick","Outbuilding, garage",40.753116,-73.87925,1
+"3363","MN",10023,"105 WEST 70 STREET","WEST 70TH ST TENANTS",1910,"Renaissance Revival","Brownstone","Residential",40.776283,-73.980138,1
+"8118","BK",11205,"254 ADELPHI STREET","STEPHENSON, MICHELE",1900,"Italianate","Wood Frame","Residential",40.690235,-73.97129,1
+"3956","MN",10024,"263 WEST 86 STREET","",1939,"Renaissance Revival","Yellow Roman Brick","Religious, church, Methodist",40.788672,-73.977332,1
+"7190","BK",11216,"691 NOSTRAND AVENUE","LOWREN MANAGEMENT COR",1905,"Colonial Revival","Brick","Residential, multi-family",40.673687,-73.950128,2
+"7911","BK",11238,"137 ST JAMES PLACE","BLOCK, EVYN",1899,"Greek Revival","Brick","Residential",40.685499,-73.964189,4
+"3850","MN",10024,"177 WEST 83 STREET","177 WEST 83 ST HSG ET",1900,"neo-Grec","Brick","Residential, multi-family",40.785645,-73.9760412,5
+"602","MN",10002,"173 EAST BROADWAY","",1912,"Classical Revival","Tan Brick","Commercial, office building",40.714093,-73.989687,1
+"3523","MN",10024,"133 WEST 78 STREET","POLLOCK, JANE",1910,"Romanesque Revival","Stone","Residential",40.781733,-73.97706,2
+"6834","BK",11215,"86 PROSPECT PARK WEST","86 88 OWNRS CORP",1909,"neo-Federal","Red Brick","Residential, multi-family",40.667455,-73.974482,1
+"3553","MN",10024,"342 WEST END AVENUE","342 WEST END AVENUE L",1900,"Renaissance Revival","Brownstone","Residential",40.782533,-73.982476,1
+"5860","BK",11201,"56 PIERREPONT STREET","SILVERSHORE PROPERTIE",1840,"Eclectic-Diverse (Eastlake)","Brick","Residential",40.695712,-73.994915,1
+"7501","BK",11216,"130 HANCOCK STREET","ALEXANDER, PHILLIP",1901,"Egyptian Revival","Brownstone","Residential",40.682422,-73.950936,1
+"7683","BK",11205,"320 WASHINGTON AVENUE","",1900,"Italianate","Brick","Institutional, charitable, nursing home",40.689111,-73.966026,2
+"3765","MN",10025,"55 WEST 94 STREET","ELAINE J SCHWARTZ",1910,"Romanesque Revival","Brownstone","Residential",40.791126,-73.967411,1
+"3733","MN",10024,"14 WEST 90 STREET","MIA TERRA REALTY CORP",1930,"Northern Renaissance","Brownstone","Residential",40.788184,-73.968246,1
+"7981","BK",11238,"216 GREENE AVENUE","DIJI, AUGUSTINE",1930,"neo-Grec","Brownstone","Residential",40.687065,-73.962691,3
+"6117","BK",11201,"124 ATLANTIC AVENUE","AP TENANTS CORPORATIO",1900,"French Second Empire","Stone","Commercial",40.689918,-73.99585,2
+"9467","QN",11385,"1879 PUTNAM AVENUE","POM HOLDINGS, LLC",1930,"Romanesque Revival","Yellow Brick","Residential, multi-family",40.703042,-73.903902,2
+"5367","BX",10454,"279 ALEXANDER AVENUE","DOMINICAN SISTERS/ETC",1910,"Queen Anne","Brick","Residential",40.810865,-73.924561,1
+"8056","BK",11238,"70 LEFFERTS PLACE","70 LEFFERTS LLC",1899,"Italianate","Wood Clapboard","Residential, single family",40.681257,-73.960614,5
+"3376","MN",10023,"107 WEST 70 STREET","WEST 70TH ST TENANTS",1900,"Renaissance Revival","Brownstone","Residential",40.776296,-73.980171,1
+"2816","MN",10001,"1145 BROADWAY","1145 NOMAD PARTNERS L",1925,"Italianate","Brick","Residential",40.744022,-73.988979,1
+"7824","BK",11238,"384 VANDERBILT AVENUE","WILLIAMS, THEODORE S",1931,"neo-Grec","Brownstone","Residential",40.685709,-73.968364,5
+"4305","MN",10021,"910 5 AVENUE","910 FIFTH AVE",1959,"neo-Italianate Renaissance (original)","White Brick","Residential, multi-family",40.772415,-73.966525,2
+"7788","BK",11238,"231 GREENE AVENUE","231 GREENE AVENUE, LL",1905,"Italianate","Brownstone","Mixed-use, commercial & residential",40.687082,-73.962695,2
+"2801","MN",10010,"23 WEST 23 STREET","200 FIFTH OWNER LLC",1920,"Late-19th century Commercial","Brick","Residential",40.741975,-73.99056,2
+"6967","BK",11215,"491 13 STREET","KENNY, MARIA SANABRIA",1901,"Italian Renaissance","Not determined","Residential",40.662639,-73.979739,2
+"6796","BK",11215,"614 2 STREET","LEWIN, ROBERT J",1901,"Neoclassical","Brownstone","Residential",40.669442,-73.974619,1
+"8451","BK",11222,"832 MANHATTAN AVENUE","KACZOR, MAREK",1931,"Art Deco","Brick","Mixed-use, commercial & residential",40.728577,-73.953507,2
+"4516","MN",10021,"134 EAST 74 STREET","134-136 EAST 74TH STR",1901,"Italianate (original)","Not determined","Residential",40.771911,-73.961676,1
+"6733","BK",11215,"38 MONTGOMERY PLACE","38 MONTGOMERY PL CORP",1928,"Queen Anne","Orange Brick","Residential",40.671187,-73.972985,1
+"3754","MN",10025,"20 WEST 94 STREET","COLUMBIA GRAMMAR SCHO",1900,"Romanesque Revival","Brick","Residential",40.790689,-73.96642,2
+"1168","MN",10003,"419 LAFAYETTE STREET","MICHAEL BAUM LLC",1894,"Renaissance Revival","Steel","Commercial, warehouse",40.728789,-73.992344,2
+"8216","BK",11205,"284 CARLTON AVENUE","DJT ASSOCIATES, LLC",1930,"Italianate","Brick","Residential",40.688995,-73.972029,4
+"3341","MN",10023,"107 WEST 69 STREET","107 WEST 69TH STREET,",1910,"Romanesque Revival","Brownstone","Residential",40.775668,-73.980622,3
+"5162","MN",10031,"10 ST NICHOLAS PLACE","SPOLLEN, JIE",1926,"Renaissance","Rough-faced Stone","Residential, single family",40.827292,-73.942367,3
+"9363","QN",11372,"35-29 87 STREET","CALDERON, MARIA",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.75142,-73.879867,1
+"7443","BK",11233,"270 DECATUR STREET","ST PHILIPS EPISCOPAL",1899,"Renaissance Revival","Stone","Residential",40.681502,-73.932874,1
+"3453","MN",10023,"100 WEST 74 STREET","100 WEST 74TH STREET",1920,"Renaissance Revival","Brick","Residential, multi-family",40.7786236666667,-73.978013,3
+"7067","BK",11238,"218 PARK PLACE","PARK PLACE RESIDENCE",1915,"neo-Grec","Brownstone","Residential",40.677088,-73.970668,1
+"3295","MN",10023,"49 WEST 75 STREET","EMEL REALTY CORP",1910,"Romanesque Revival","Brownstone","Residential",40.778766,-73.975924,1
+"3099","MN",10036,"123 WEST 44 STREET","METROPOLITIAN TIMES S",1900,"Northern Gothic","Brick","Commercial, hotel",40.756491,-73.983977,3
+"4324","MN",10021,"36 EAST 74 STREET","HUANG, PAUL",1920,"Italianate (original)","Brick","Residential",40.772936,-73.964109,1
+"3305","MN",10023,"30 WEST 76 STREET","30 WEST 76TH STREET R",1974,"French neo-Grec","Brownstone","Residential",40.779221,-73.975079,2
+"2557","MN",10011,"430 WEST 20 STREET","MOTHERS OF THE HELPLE",1900,"Italianate","Brick","Residential",40.745049,-74.003732,1
+"4327","MN",10021,"30 EAST 74 STREET","GARFIELD LESLIE J",1910,"neo-Medeival Gothic","Brick","Residential",40.772974,-73.964196,1
+"4610","MN",10028,"20 EAST 84 STREET","18 20 PARK 84TH CORP",1910,"neo-Federal","Flemish-Bond Brick","Residential, single-family",40.7798298,-73.9604648,5
+"1652","MN",10014,"15 CARMINE STREET","233 BLEECKER STREET L",1920,"Italianate","Wood Frame","Mixed-use, commercial & residential",40.7304748,-74.0025464,5
+"3231","MN",10023,"35 WEST 71 STREET","35 71 OWNERS CORP",1900,"neo-Grec","Brownstone","Residential",40.776214,-73.97804,1
+"6716","BK",11215,"858 CARROLL STREET","LIANNE S. TOWBES, TRU",1901,"Romanesque Revival","Brownstone","Residential",40.671766,-73.972675,2
+"8484","BK",11207,"2840 ATLANTIC AVENUE","2840 ATLANTIC HOLDING",1914,"Abstract Classicism","Brick","Industrial, dairy",40.676789,-73.889346,1
+"1148","MN",10012,"55 WASHINGTON SQUARE S","JUDSON MEMORIAL CHURC",1900,"Renaissance","Yellow Brick","Religious, church",40.7304,-73.998319,1
+"6939","BK",11215,"592 11 STREET","BONFILS-ROBERTS, MARJ",1899,"Romanesque Revival","Brownstone","Residential",40.66414,-73.979389,1
+"8263","BK",11205,"288 VANDERBILT AVENUE","ALSADIR, NUAR",1899,"Queen Anne","Brick","Residential",40.688711,-73.968965,1
+"7209","BK",11216,"863 STERLING PLACE","SAMUELS ROY A",1903,"Renaissance Revival","Stone","Residential, multi-family",40.672505,-73.949649,1
+"3399","MN",10023,"140 WEST 72 STREET","140-154 W. 72 REALTY",1920,"Queen Anne","Brownstone","Mixed-use, commercial & residential",40.7779745384615,-73.9801508461538,13
+"9304","QN",11372,"35-22 87 STREET","CHAN HING CHUNG",1930,"neo-Tudor","Brick","Outbuilding, garage",40.751522,-73.879906,1
+"8318","BK",11238,"351 ADELPHI STREET","LATHAM, JANINE SARAH",1899,"Greek Revival","Brownstone","Residential",40.686909,-73.970606,1
+"8295","BK",11238,"291 CUMBERLAND STREET","GRIFFITH LOIS",1899,"neo-Renaissance","Yellow Brick","Residential",40.686873,-73.972568,1
+"3509","MN",10024,"371 AMSTERDAM AVENUE","BRUSCO WEST 78TH STRE",1920,"Queen Anne","Brick","Mixed-use, commercial & residential",40.78226,-73.978963,1
+"3247","MN",10023,"36 WEST 73 STREET","WEST 73 ST,",1910,"Romanesque","Brownstone","Residential",40.777671,-73.977311,1
+"2061","MN",10014,"5 JANE STREET","5-7 1/2 JANE STREET",1926,"neo-Grec","Brick","Residential, multi-family",40.738141,-74.002479,1
+"3448","MN",10023,"105 WEST 72 STREET","105 WEST 72ND CONDOMI",1913,"Stylized Churrigueresque","Brick","Residential, multi-family",40.77763,-73.979296,4
+"4225","MN",10065,"45 EAST 66 STREET","777 MADISON CONDOMINI",1907,"Gothic","Red Brick","Residential, multi-family",40.76793,-73.9679655,2
+"7912","BK",11238,"135 ST JAMES PLACE","135 ST JAMES PLACE LL",1930,"Greek Revival","Brick","Residential",40.68554,-73.964196,2
+"9135","QN",11372,"34-34 83 STREET","TIBERIUS CHONSIK KIM",1935,"neo-Georgian","Red Brick","Outbuilding, garage",40.752799,-73.883932,1
+"3391","MN",10023,"140 WEST 72 STREET","140-154 W. 72 REALTY",1920,"Moorish","Brownstone","Mixed-use, commercial & residential",40.7779745384615,-73.9801508461538,13
+"398","MN",10013,"158 FRANKLIN STREET","FRANKLIN CONDO",1920,"Queen Anne","Cast Iron","Commercial, store and lofts",40.719254,-74.008146,1
+"3800","MN",10024,"169 WEST 80 STREET","A & L MANAGEMENT ASSO",1910,"Romanesque Revival","Brick","Residential, multi-family",40.783575,-73.977197,1
+"7379","BK",11233,"511 MACON STREET","EDWINA R WALTERS",1899,"Queen Anne","Brownstone","Residential",40.683227,-73.931073,1
+"3516","MN",10024,"155 WEST 78 STREET","ROTHSTEIN EDWARD",1901,"neo-Grec","Brownstone","Residential",40.78192,-73.977504,4
+"1649","MN",10014,"317 AVENUE OF THE AMER","321 SIXTH AVENUE PART",1920,"Italianate","Brick","Residential",40.730927,-74.001501,1
+"3646","MN",10024,"29 WEST 82 STREET","",1900,"Northern Renaissance","Brick","Residential",40.783132,-73.97221,1
+"5366","BX",10454,"285 ALEXANDER AVENUE","ALEXANDER 285, LLC",1899,"Queen Anne","Brick","Residential",40.810983,-73.924474,1
+"3708","MN",10024,"72 WEST 88 STREET","72 WEST 88TH ST HDFC",1900,"Renaissance Revival","Brick","Residential, multi-family",40.787377,-73.970262,1
+"6396","BK",11217,"164 HOYT STREET","TSARNAS BARBARA",1899,"neo-Grec","Brick","Residential",40.685375,-73.988624,1
+"6395","BK",11217,"162 HOYT STREET","SBROCCO HENRY",1899,"neo-Grec","Brick","Residential",40.685424,-73.988592,1
+"4457","MN",10021,"116 EAST 70 STREET","70TH STREET CASA LLC",1901,"Anglo-Italianate (original)","Masonry","Residential",40.769458,-73.963999,1
+"3816","MN",10024,"120 WEST 81 STREET","JAMES DOOLING",1900,"Romanesque Revival","Brick","Residential",40.783594,-73.975373,1
+"9560","QN",11363,"14 RICHMOND ROAD","MEI HUA JIANG",1920,"Tudor Revival","Wood Frame","Residential, single-family",40.779451,-73.75336,1
+"3375","MN",10023,"131 WEST 70 STREET","BUTTERCUP MANAGEMENTC",1900,"neo-Grec","Brownstone","Residential",40.776458,-73.980557,1
+"4609","MN",10028,"20 EAST 84 STREET","18 20 PARK 84TH CORP",1910,"neo-Federal","Flemish-Bond Brick","Residential, single-family",40.7798298,-73.9604648,5
+"7730","BK",11238,"379 WASHINGTON AVENUE","MOHAWK HOUSING ASSOC",1905,"Romanesque Revival","Brownstone","Residential, multi-family",40.687497,-73.9651465,2
+"1767","MN",10014,"389 AVENUE OF THE AMER","WALSAM SIXTH AVE CO",1900,"Federal (original)","Brick","Residential",40.733118,-73.999935,3
+"3766","MN",10025,"53 WEST 94 STREET","GAGEN JOSEPH",1900,"Romanesque Revival","Brownstone","Residential",40.791096,-73.967339,1
+"2966","MN",10016,"229 MADISON AVENUE","PIERPONT MORGAN LIBRA",1900,"neo-Renaissance","Brownstone","Residential, single family",40.749571,-73.981629,2
+"3809","MN",10024,"123 WEST 80 STREET","80 COLUMBUS OWNERS CO",1890,"Romanesque Revival","Brownstone","Residential",40.782971,-73.975763,1
+"8686","BK",11226,"890 FLATBUSH AVENUE","REF DUTCH CH",1920,"Georgian","Manhattan Schist","Religious, church, Dutch Reformed",40.650125,-73.958654,2
+"9316","QN",11372,"35-56 87 STREET","SAENNGARM, CHAT CHAI",1930,"neo-Tudor","Brick","Outbuilding, garage",40.751055,-73.879824,5
+"9134","QN",11372,"34-32 83 STREET","KULAHLIOGLU, EROL",1935,"neo-Georgian","Red Brick","Outbuilding, garage",40.752846,-73.883939,3
+"9177","QN",11372,"34-34 85 STREET","FERNANDEZ LUCIA",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.753116,-73.882094,1
+"7797","BK",11238,"207 GREENE AVENUE","COLVIN GIBB",1905,"neo-Grec","Brownstone","Residential",40.68697,-73.963654,1
+"9359","QN",11372,"35-43 87 STREET","MONA SEHGAL",1930,"neo-Georgian","Red Brick","Residential",40.751231,-73.879834,1
+"9214","QN",11372,"34-21 84 STREET","TSUI, CURTIS KAM-TIN",1930,"neo-Georgian","Red Brick","Residential",40.753122,-73.883018,2
+"3999","MN",10024,"140 RIVERSIDE DRIVE","NORMANDY OWNERS CORP",1939,"Art Moderne","Beige Brick","Residential, multi-family",40.790374,-73.979596,2
+"1244","MN",10011,"19 WASHINGTON SQUARE N","NEW YORK UNIVERSITY",1890,"Italianate","Brick","Residential",40.732002,-73.997566,2
+"NA.1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4144","MN",10065,"570 PARK AVENUE","570 PARK AVENUE CORP",1916,"English influences","Stone","Residential, multi-family",40.765496,-73.968431,2
+"3612","MN",10024,"315 WEST 77 STREET","G.E.M.S. REALTY, LLC.",1910,"English Renaissance Revival","Rock-faced Brownstone","Residential",40.783222,-73.982566,1
+"7792","BK",11238,"217 GREENE AVENUE","ALLEN GLEN",1899,"neo-Grec","Brownstone","Residential",40.687033,-73.96312,2
+"4221","MN",10065,"10 EAST 67 STREET","10 EAST 67TH STREET L",1920,"Queen Anne (original)","Limestone","Residential",40.769004,-73.968754,1
+"3394","MN",10023,"140 WEST 72 STREET","140-154 W. 72 REALTY",1920,"Queen Anne","Brownstone","Mixed-use, commercial & residential",40.7779745384615,-73.9801508461538,13
+"3285","MN",10023,"15 WEST 74 STREET","OLGA MORA",1910,"neo-Grec","Brick","Residential",40.777841,-73.9757,1
+"6885","BK",11215,"291 7 AVENUE","DELFINO, MARIANNA",1921,"Queen Anne","Brownstone","Residential, multi-family",40.667961,-73.980675,1
+"6391","BK",11201,"148 HOYT STREET","148 HOYT ST RLTY CO",1931,"Romanesque","Brick","Mixed-use, commercial & residential",40.685775,-73.988361,2
+"2008","MN",10014,"241 WEST 11 STREET","BELUGA PROPERTIES, LL",1899,"Italianate","Brick","Residential",40.736277,-74.002923,3
+"503","MN",10013,"451 WASHINGTON STREET","WASHINGTON B C STUDIO",1915,"Romanesque Revival","Brick","Industrial, warehouse",40.7240155,-74.010013,2
+"6722","BK",11215,"27 MONTGOMERY PLACE","CUTHILL, ROBERT B",1920,"Renaissance","Yellow Brick","Residential",40.671316,-73.973208,1
+"5109","MN",10031,"54 HAMILTON TERRACE","SUN, DAVID",1899,"Renaissance","Limestone","Residential",40.822938,-73.946407,1
+"2034","MN",10014,"29 BANK STREET","CASA OAXACA L.L.C.",1915,"Italianate","Brick","Residential",40.736958,-74.002955,1
+"490","MN",10013,"92 LAIGHT STREET","W SQUARED, LLC",2004,"Romanesque Revival","Red Brick","Commercial, warehouse",40.722393,-74.010538,4
+"1200","MN",10011,"3 WASHINGTON SQUARE N","PARKS AND RECREATION",2013,"Eclectic","Stone","Civic, monument",40.730883,-73.997593,1
+"3626","MN",10024,"66 WEST 82 STREET","66-68 WEST 82ND STREE",1900,"Romanesque Revival","Brownstone","Residential",40.783437,-73.972979,1
+"2031","MN",10014,"21 BANK STREET","21 BANK STREET LLC",1910,"Medieval","Brick","Residential",40.73699,-74.002724,1
+"3324","MN",10023,"33 WEST 76 STREET","STERAM REALTY CORP",1910,"Queen Anne","Rock-faced Stone","Residential",40.779265,-73.975136,1
+"2558","MN",10011,"436 WEST 20 STREET","CHELSEA SQUARE, LLC",1910,"Italianate","Brick","Residential",40.745101,-74.003854,6
+"9260","QN",11372,"34-42 88 STREET","WILLIAM P FALLON",1935,"neo-Georgian","Red Brick","Residential",40.753116,-73.87925,1
+"2241","MN",10014,"290 WEST 12 STREET","290 W12 LLC",1965,"Eclectic (original)","Brick","Residential, multi-family",40.737537,-74.004193,1
+"3909","MN",10024,"166 WEST 88 STREET","SMITH, SANFORD L",1899,"Romanesque","Brownstone","Residential",40.788528,-73.972995,1
+"6755","BK",11215,"477 1 STREET","GOODMAN EZRA N",1901,"French neo-Grec","Brownstone","Residential",40.671248,-73.976572,1
+"9372","QN",11372,"35-19 87 STREET","HRISTOVSKY, ROXANN E",1930,"neo-Georgian","Red Brick","Residential",40.751555,-73.879892,2
+"4204","MN",10065,"768 MADISON AVENUE","T I R N REALTY CORP",1910,"neo-Grec","Brownstone","Residential",40.767832,-73.968328,1
+"7291","BK",11225,"181 LEFFERTS AVENUE","KNIGHT, MARC O",1901,"French Renaissance","Brick","Residential, multi-family",40.662085,-73.955277,1
+"3560","MN",10024,"360 WEST END AVENUE","REFORMED PROTESTANT D",1910,"Flemish Renaissance Revival","Brick","Religious, church, Dutch Reformed",40.783117,-73.982046,1
+"396","MN",10013,"220 WEST BROADWAY","OWNER / AGENT",1915,"Queen Anne","Cast Iron","Commercial, warehouse",40.7191656666667,-74.0065533333333,3
+"1658","MN",10014,"275 BLEECKER STREET","275 BLEECKER CORP",1920,"Italianate","Wood","Residential",40.731608,-74.003208,1
+"9342","QN",11372,"35-48 88 STREET","SANDAR, MA",1925,"neo-Georgian","Brick","Residential",40.75106,-73.878875,2
+"1836","MN",10011,"123 WEST 11 STREET","ESCORP INC",1910,"Italianate","Brick","Residential",40.735758,-73.999138,1
+"1620","MN",10014,"43 GROVE STREET","GROVE EQUITIES",1900,"neo-Grec","Flemish-Bond Brick","Residential, single-family",40.732829,-74.004272,7
+"2972","MN",10003,"49 IRVING PLACE","NEW 1804 WASH CORP",1800,"Italianate","Red Brick","Residential",40.73584875,-73.987526,4
+"9469","QN",11385,"1863 PUTNAM AVENUE","GROVE ESTATES LLC",1930,"Romanesque Revival","Yellow Brick","Residential, multi-family",40.702776,-73.904173,1
+"9392","QN",11372,"37-47 82 STREET","3747 82ND STREET LLC",1922,"neo-Georgian","Brick","Commercial",40.749396,-73.884237,1
+"7979","BK",11238,"212 GREENE AVENUE","WILLIAM CLINTON",1930,"neo-Grec","Brownstone","Residential",40.687044,-73.962882,1
+"3396","MN",10023,"140 WEST 72 STREET","140-154 W. 72 REALTY",1920,"Moorish","Brownstone","Mixed-use, commercial & residential",40.7779745384615,-73.9801508461538,13
+"9212","QN",11372,"34-25 84 STREET","MR & MRS B C BLANEY",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.753051,-73.883004,1
+"5583","BK",11201,"68 JAY STREET","CHATOV, L.L.C.",1914,"Queen Anne","Brick","Industrial, factory",40.7028416666667,-73.986676,3
+"1111","MN",10012,"20 BOND STREET","20 BOND OWNERS CORP",1925,"Renaissance Revival","Brick","Commercial, store and lofts",40.726472,-73.993762,2
+"9271","QN",11372,"34-29 87 STREET","KOONTZ, MICHAEL J",1935,"neo-Georgian","Red Brick","Residential",40.753276,-73.880206,1
+"409","MN",10013,"31 WALKER STREET","ONLY PROPERTIES, LLC",1910,"Second Empire","Masonry","Commercial, store and lofts",40.719322,-74.00447,1
+"7498","BK",11216,"80 HANCOCK STREET","LISA A. RENAUD",1901,"Egyptian Revival","Brownstone","Residential",40.682267,-73.952296,1
+"5443","BX",10455,"788 DAWSON STREET","RIVERA, JOHNNY",1901,"Romanesque Revival (late)","Roman Brick","Residential, multi-family",40.817675,-73.899762,1
+"1072","MN",10014,"6 BEDFORD STREET","PATEL, MIHIR J",1899,"Renaissance Revival","Brick","Residential",40.728902,-74.003392,1
+"3927","MN",10024,"420 AMSTERDAM AVENUE","420-428 AMSTERDAM,",1910,"Renaissance Revival","Brick","Residential, multi-family",40.783978,-73.977731,2
+"3848","MN",10024,"107 WEST 82 STREET","OWNER / AGENT",1880,"Queen Anne","Brick","Residential, multi-family",40.7841565,-73.9746415,2
+"3531","MN",10024,"139 WEST 78 STREET","ROBERTA P HUBER",1910,"Romanesque Revival","Stone","Residential",40.781785,-73.977183,1
+"7977","BK",11238,"7 CAMBRIDGE PLACE","SONYA VASSOS",1899,"neo-Grec","Brownstone","Residential",40.686525,-73.963409,1
+"2054","MN",10014,"239 WEST 12 STREET","239 WEST LLC",1843,"neo-Grec","Brick","Residential",40.737649,-74.002317,1
+"6867","BK",11215,"581A 6 STREET","OWNER / AGENT",1931,"Georgian","Brick","Residential, multi-family",40.667041,-73.976598,2
+"593","MN",10013,"145 GRAND STREET","WANG & ASSOCIATES,",1915,"Italianate alterations","Brick","Residential",40.720187,-73.999376,1
+"3655","MN",10024,"66 WEST 84 STREET","66 W 84 ST OWNERS COR",1900,"Romanesque Revival","Brick","Residential, multi-family",40.7848375,-73.972659,2
+"9155","QN",11372,"34-44 84 STREET","IBANEZ, TOMAS",1935,"neo-Tudor","Brick","Residential",40.752727,-73.882968,2
+"2438","MN",10014,"86 JANE STREET","86 JANE STREET LLC",1905,"Italianate","Brick","Residential",40.738135,-74.00743,1
+"6969","BK",11215,"490 13 STREET","JAMES A NAJJAR",1901,"French Renaissance","Not determined","Residential",40.66265,-73.979804,2
+"6097","BK",11201,"94 ATLANTIC AVENUE","ATLANTIC APARTMENTS",1900,"neo-Grec","Brick","Residential",40.690939,-73.996895,2
+"3182","MN",10023,"52 WEST 70 STREET","DREYFUS 100% TREASURY",1910,"neo-Grec","Brick","Residential",40.775519,-73.978373,2
+"3913","MN",10024,"161 WEST 88 STREET","SAMTON EMILY S.",1901,"Romanesque Revival","Brownstone","Residential",40.788492,-73.972861,2
+"682","MN",10013,"241 CENTRE STREET","A TRENKMANN EST INC",1910,"Renaissance Revival","Brick","Industrial, factory",40.720234,-73.998167,1
+"3457","MN",10023,"112 WEST 74 STREET","112 WEST 74TH STREET,",1910,"Romanesque Revival","Brownstone","Residential",40.778947,-73.978368,1
+"9387","QN",11372,"37-57 82 STREET","UPAM REALTY CORP",1931,"neo-Georgian","Brick","Commercial",40.749388,-73.884234,4
+"4701","MN",10128,"116 EAST 91 STREET","TERRA ALTA LLC",1920,"Queen Anne","Brownstone","Residential, multi-family",40.783027,-73.954101,1
+"5274","MN",10031,"435 WEST 147 STREET","CHECHAK, KATHRYN",1899,"Romanesque Revival","Brick","Residential",40.825769,-73.944829,1
+"3338","MN",10023,"100 WEST 69 STREET","ONE NINETY REALTY COM",1910,"Queen Anne","Brick","Residential, multi-family",40.775196,-73.980424,1
+"9344","QN",11372,"35-54 88 STREET","JARA, JOHNNY",1925,"neo-Georgian","Brick","Residential",40.750936,-73.878853,1
+"7826","BK",11238,"390 VANDERBILT AVENUE","HANNA LOFTIN",1899,"neo-Grec","Brownstone","Residential",40.685585,-73.968339,1
+"7004","BK",11217,"531 BERGEN STREET","531 BERGEN STREET LLC",1930,"Renaissance Revival","Brick","Residential, multi-family",40.680352,-73.972642,1
+"7503","BK",11216,"77 HALSEY STREET","YOLANDA CLARKE",1900,"Renaissance Revival","Brownstone","Residential",40.681733,-73.950537,1
+"8564","BK",11225,"135 MIDWOOD STREET","ROBERT A MARVIN",1905,"neo-Renaissance","Brick","Residential",40.659794,-73.95588,1
+"6681","BK",11215,"117 8 AVENUE","NOVOGRATZ , JOHN",1920,"Richardsonian Romanesque","Brick","Residential, single-family",40.672354,-73.97372,1
+"3179","MN",10023,"46 WEST 70 STREET","46 WEST 70TH STREET L",1910,"neo-Grec","Brick","Residential",40.775467,-73.97825,2
+"6552","BK",11217,"187 6 AVENUE","CORDOVA-DUPREY, SOCOR",1899,"Classical","Brownstone","Residential",40.676277,-73.977385,1
+"7766","BK",11238,"29 CLIFTON PLACE","IONE E. BROWNE, TRUST",1899,"neo-Grec","Brownstone","Residential",40.687752,-73.96334,1
+"3282","MN",10023,"31 WEST 74 STREET","31 WEST 74TH STREET L",1973,"Northern Renaissance","Stone","Residential",40.777975,-73.976025,1
+"3624","MN",10024,"68 WEST 82 STREET","66-68 WEST 82ND STREE",1900,"Romanesque Revival","Brownstone","Residential",40.783453,-73.973019,1
+"9388","QN",11372,"37-55 82 STREET","FAIR INTERIORS INC",1922,"neo-Georgian","Brick","Commercial",40.749391,-73.884237,7
+"630","MN",10003,"80 EAST 2 STREET","SUKKAR, NORMAN",1900,"Italianate","Brick","Residential",40.724155,-73.988531,1
+"9357","QN",11372,"35-45 87 STREET","VUJNOVICH GEORGE M",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.751203,-73.879827,2
+"3759","MN",10025,"20 WEST 94 STREET","COLUMBIA GRAMMAR SCHO",1900,"Romanesque Revival","Brick","Residential",40.790689,-73.96642,2
+"1781","MN",10014,"165 WAVERLY PLACE","WILLIAM GOTTLIEB",1915,"Greek Revival","Brick","Civic, hospital",40.7335063333333,-74.0012233333333,3
+"4343","MN",10021,"45 EAST 74 STREET","GALAXY SILVER LIMITED",1910,"Queen Anne (original)","Brick","Residential",40.772919,-73.964026,1
+"7529","BK",11216,"105 MAC DONOUGH STREET","ROBINSON VERGIE",1900,"Queen Anne","Brownstone","Residential",40.681208,-73.942126,1
+"7732","BK",11238,"379 WASHINGTON AVENUE","MOHAWK HOUSING ASSOC",1905,"Romanesque Revival","Brownstone","Residential, multi-family",40.687497,-73.9651465,2
+"8430","BK",11222,"126 NOBLE STREET","LYNCH, JAMES J",1899,"Greek Revival","Wood Frame","Residential",40.728613,-73.955687,1
+"4159","MN",10065,"27 EAST 63 STREET","STEJENDAN REALTY, INC",1920,"neo-Georgian","Brick","Residential",40.765993,-73.969326,1
+"9213","QN",11372,"34-21 84 STREET","TSUI, CURTIS KAM-TIN",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.753122,-73.883018,2
+"5225","MN",10031,"450 WEST 145 STREET","BATTLE ENTERPRISES, L",1926,"Romanesque Revival","Brownstone","Residential",40.824815,-73.946626,2
+"3176","MN",10023,"40 WEST 70 STREET","LINCOLN PARK REALTYCO",1920,"neo-Grec","Brick","Residential",40.775415,-73.978127,2
+"3813","MN",10024,"110 WEST 81 STREET","110 W 81 ST LLC",1900,"Romanesque Revival","Brownstone","Residential",40.783506,-73.975171,1
+"1966","MN",10014,"259 WEST 4 STREET","",1905,"Classical","Brick","Residential, multi-family",40.735294,-74.003258,4
+"3466","MN",10023,"300 COLUMBUS AVENUE","101 W. 74TH STREET",1910,"Queen Anne","Brick","Residential, multi-family",40.778873,-73.97774,1
+"5780","BK",11201,"72 HENRY STREET","ORANGE 80, LLC",1900,"Colonial","Brownstone","Mixed-use, commercial & residential",40.698654,-73.992448,1
+"3861","MN",10024,"147 WEST 85 STREET","147 W. 85TH ST., LLC",1910,"Romanesque","Brick","Residential",40.786385,-73.974025,2
+"479","MN",10013,"145 HUDSON STREET","",1929,"Art Deco","Concrete","Industrial, factory",40.721073,-74.008398,1
+"6638","BK",11215,"909 UNION STREET","TOROMA REALTY, LLC",1920,"Queen Anne","Brick","Residential",40.673734,-73.973561,1
+"9355","QN",11372,"35-51 87 STREET","MINCHALA, SEGUNDO MAN",1930,"neo-Georgian","Red Brick","Residential",40.751124,-73.879813,4
+"9319","QN",11372,"35-37 86 STREET","MARC SALIH",1930,"neo-Georgian","Brick","Outbuilding, garage",40.751827,-73.880887,3
+"3195","MN",10023,"59 WEST 70 STREET","B.I.G., LLC",1910,"Queen Anne","Brick","Residential",40.775593,-73.978506,2
+"6864","BK",11215,"579 6 STREET","WEINER MORTON",1910,"Georgian","Brick","Residential, multi-family",40.66706,-73.976638,1
+"660","MN",10003,"135 2 AVENUE","OTTENDORFER LIBRARY",1884,"Queen Anne","Philadelphia Brick","Civic, library",40.728772,-73.98756,1
+"7044","BK",11238,"189 PROSPECT PLACE","VINCENT W ALLEN",1910,"neo-Grec","Brownstone","Residential",40.677994,-73.970386,1
+"8569","BK",11225,"60 MIDWOOD STREET","THORNHILL, CLARENCEM",1901,"neo-Renaissance","Roman Brick","Residential",40.659605,-73.958655,1
+"1130","MN",10012,"77 BLEECKER STREET","77 BLEECKER ST CORP",1930,"Contemporary","Steel Frame","Commercial, stores",40.72687425,-73.995565,4
+"9311","QN",11372,"35-44 87 STREET","VASSILEV, GEORGE JR",1930,"neo-Tudor","Brick","Outbuilding, garage",40.75122,-73.879852,1
+"6795","BK",11215,"225 8 AVENUE","225-8TH AVE APT CORP",1920,"Renaissance","Limestone","Residential, multi-family",40.66984,-73.975797,1
+"9140","QN",11372,"34-44 83 STREET","GUIRACOCHA, PIEDAD",1935,"neo-Georgian","Red Brick","Residential",40.752563,-73.883889,3
+"4311","MN",10021,"48 EAST 73 STREET","TOLOSA CORPORATION,NV",1899,"neo-Grec (original)","Flemish-Bond Brick","Residential",40.772255,-73.96446,1
+"6774","BK",11215,"537 2 STREET","JOERG, MICHELE",1901,"Neoclassical","Roman Brick","Residential",40.670458,-73.976677,1
+"568","MN",10013,"427 BROADWAY","THE A.J.D. BUILDING,",1910,"French Renaissance","Cast Iron","Commercial, warehouse",40.7199862,-74.0015694,5
+"5361","BX",10454,"267 ALEXANDER AVENUE","EDWIN E FIGUEROA",1899,"Constructive Expressionism","Brick","Residential",40.810503,-73.924825,1
+"9258","QN",11372,"34-38 88 STREET","GONZALEZ, JULIO",1935,"neo-Georgian","Red Brick","Residential",40.753198,-73.879264,1
+"3783","MN",10025,"33 WEST 95 STREET","TAKESHITA, MAYUMI",1901,"Queen Anne","Brick","Residential",40.791449,-73.966244,1
+"3706","MN",10024,"40 WEST 88 STREET","MIA TERRA REALTY CORP",1900,"Romanesque","Brownstone","Residential",40.787097,-73.969601,1
+"4167","MN",10065,"34 EAST 64 STREET","34 E 64TH ST RLTY CO",1920,"Queen Anne","Stone","Residential",40.766602,-73.968878,1
+"7201","BK",11216,"852 PARK PLACE","GORDON, NEIL",1906,"Renaissance Revival","Brownstone","Residential",40.673364,-73.949267,1
+"2908","MN",10003,"895 BROADWAY","895 BROADWAY OWNER LL",1915,"neo-Renaissance","Limestone","Commercial, department store",40.7388613333333,-73.989861,3
+"9179","QN",11372,"34-36 85 STREET","ASHAR, RACHITA S",1930,"neo-Georgian","Red Brick","Residential",40.753091,-73.882087,2
+"3634","MN",10024,"11 WEST 82 STREET","MAGNONE PETER",1900,"Queen Anne","Brownstone","Residential",40.782978,-73.971845,1
+"3348","MN",10023,"134 WEST 70 STREET","134 W 70 ST CORP",1920,"Queen Anne","Brownstone","Residential",40.776483,-73.980665,2
+"8043","BK",11238,"156 GATES AVENUE","SORRENTINO ALFONSO",1930,"neo-Grec","Brownstone","Mixed-use, commercial & residential",40.684976,-73.961297,1
+"7764","BK",11238,"37 CLIFTON PLACE","MARTIN, TONI",1899,"neo-Grec","Brownstone","Residential",40.687787,-73.963055,1
+"8063","BK",11205,"102 VANDERBILT AVENUE","102 VANDERBILT AVENUE",1905,"neo-Grec","Wood","Residential, single-family",40.694586,-73.97013,1
+"3666","MN",10024,"28 WEST 85 STREET","ROITMAN FAMILY LIMITE",1900,"Queen Anne","Brownstone","Residential",40.785009,-73.970805,1
+"4164","MN",10065,"46 EAST 64 STREET","JOSIAH MACY,JR.ETC.",1900,"Queen Anne","Brownstone","Residential",40.766522,-73.968686,1
+"4652","MN",10128,"1296 MADISON AVENUE","ELLIANA 27 E. 92 LLC",1910,"Queen Anne","Brick","Residential",40.7848486666667,-73.9563436666667,3
+"7431","BK",11233,"365 DECATUR STREET","PELATTI, GREG",1899,"Italianate","Brick","Residential",40.681904,-73.929535,3
+"2907","MN",10003,"893 BROADWAY","CHOLLA 893 LLC",2000,"Modern","Cast Iron","Mixed-use, commercial & residential",40.7387424,-73.9899928,5
+"8201","BK",11217,"69 SOUTH OXFORD STREET","ROANOKE CONDOMINIUM",1931,"Byzantine","Stone","Residential, multi-family",40.687793,-73.973735,1
+"9269","QN",11372,"34-35 87 STREET","ROSE, CAROLINE",1935,"neo-Georgian","Red Brick","Outbuilding, garage",40.753152,-73.880181,1
+"6691","BK",11215,"928 PRESIDENT STREET","928 PRESIDENT STREET,",1920,"neo-Grec","Brownstone","Residential",40.672299,-73.97199,2
+"1136","MN",10012,"14 WEST 4 STREET","STRUGATZ, DONNA",1908,"Italianate","Brick","Residential, multi-family",40.7281843333333,-73.994832,3
+"9818","QN",11363,"240-02 POPLAR STREET","FILACOURIS, ANDONIS",1920,"neo-Colonial","Wood Frame","Residential, single-family",40.768685,-73.746519,2
+"1643","MN",10014,"20 CORNELIA STREET","20 PIERRE ASSOCIATES",1900,"neo-Grec","Philadelphia Brick","Residential, multi-family",40.731517,-74.001862,1
+"8148","BK",11217,"7 SOUTH ELLIOTT PLACE","BRUCE HERMAN",1900,"neo-Grec","Brownstone","Residential",40.689204,-73.975989,1
+"7071","BK",11238,"675 VANDERBILT AVENUE","VANDERBILT PARK OWNER",1910,"Renaissance Revival","Iron-Spot Brick","Residential, multi-family",40.676602,-73.969233,1
+"NA.10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"1665","MN",10014,"7 CORNELIA STREET","ASK PROPERTY HOLDINGS",1900,"Spanish Revival","Brick","Residential",40.731616,-74.001634,2
+"3364","MN",10023,"103 WEST 70 STREET","103 WEST SEVENTIETHST",1900,"Renaissance Revival","Brownstone","Residential",40.776269,-73.980109,1
+"9472","QN",11385,"817 ONDERDONK AVENUE","ONDERDONK LLC",1930,"Romanesque Revival","Yellow Brick","Residential, multi-family",40.702251,-73.904271,1
+"7822","BK",11238,"374 VANDERBILT AVENUE","SCHEIDELMAN, HUDA T",1899,"neo-Grec","Brownstone","Residential",40.685909,-73.968403,1
+"8605","BK",11225,"82 RUTLAND ROAD","NANA KOJO TUFFOUR",1910,"neo-Renaissance","Roman Brick","Residential",40.658924,-73.958086,1
+"1642","MN",10014,"20 CORNELIA STREET","20 PIERRE ASSOCIATES",1900,"neo-Grec","Philadelphia Brick","Residential, multi-family",40.731517,-74.001862,1
+"4587","MN",10075,"22 EAST 80 STREET","KAR FIFTH CORP",1920,"Queen Anne","Brownstone","Residential, single-family",40.777255,-73.962247,1
+"2001","MN",10014,"16 BANK STREET","WAVERLY DEVELOPMENTAS",1915,"Gothic Revival","Brick","Residential",40.737026,-74.002371,2
+"7791","BK",11238,"221 GREENE AVENUE","YAGEL, G. THOMAS JR.",1899,"neo-Grec","Brownstone","Residential",40.687046,-73.963001,1
+"6938","BK",11215,"590 11 STREET","GEBALLE , RACHEL DINE",1899,"Romanesque Revival","Brownstone","Residential",40.664159,-73.979433,3
+"7081","BK",11238,"384 PARK PLACE","BEVERLY C REID",1900,"Renaissance Revival","Brownstone","Residential",40.675917,-73.96507,1
+"5327","MN",10032,"434 WEST 162 STREET","IRWIN, GUY L",1899,"Classical","Rough-faced Stone","Residential",40.83537,-73.93892,1
+"3418","MN",10023,"155 WEST 72 STREET","155 W 72 ST REALTY CO",1922,"neo-Romanesque","Brick","Commercial, store and lofts",40.778042,-73.980264,1
+"6077","BK",11201,"193 ATLANTIC AVENUE","MARTINEZ MANUEL",1910,"Modern","Brick","Mixed-use, commercial & residential",40.689934,-73.993217,3
+"147","MN",10038,"150 NASSAU STREET","",1900,"Renaissance Revival","Gray Granite","Commercial, office building",40.711401,-74.006204,3
+"7072","BK",11238,"673 VANDERBILT AVENUE","VANDERBILT PARK OWNE",1910,"Renaissance Revival","Iron-Spot Brick","Residential, multi-family",40.676651,-73.969215,1
+"7321","BK",11225,"194 LEFFERTS AVENUE","ISSAC RUSSELL",1901,"French Renaissance","Brick","Residential",40.662085,-73.954995,1
+"9184","QN",11372,"34-44 85 STREET","CHATURVEDI, ANKUR",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.75299,-73.882069,1
+"5451","BX",10455,"762 BECK STREET","WILLOUGHBY, AARON J",1910,"Romanesque Revival (late)","Roman Brick","Residential",40.816359,-73.898684,1
+"6220","BK",11201,"417 HICKS STREET","",1996,"Romanesque Revival","Brick","Residential, multi-family",40.6879773333333,-73.9990913333333,3
+"8396","BK",11222,"100 MILTON STREET","MAY , MARGARET T",1899,"Gothic Revival","Wood Frame","Residential",40.729269,-73.956332,1
+"3760","MN",10025,"20 WEST 94 STREET","COLUMBIA GRAMMAR SCHO",1900,"Romanesque Revival","Brick","Residential",40.790689,-73.96642,2
+"3806","MN",10024,"147 WEST 80 STREET","147 W 80TH, LLC",1900,"Romanesque Revival","Stone","Residential",40.783212,-73.976334,1
+"3239","MN",10023,"58 WEST 72 STREET","PARKWAY EAST PROPERTI",1920,"Romanesque Revival","Brick","Mixed-use, commercial & residential",40.777243,-73.978903,1
+"9361","QN",11372,"35-41 87 STREET","LIU, ZHONG GUO",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.751258,-73.879838,2
+"6518","BK",11217,"137 ST JOHNS PLACE","ROSSIER, NICOLAS",1899,"Queen Anne","Brownstone","Residential",40.676839,-73.975081,1
+"8340","BK",11222,"149 KENT STREET","HWH KENT, LLC",1931,"Romanesque Revival (early)","Brick","Religious, sunday school, Dutch Reformed",40.730831,-73.955256,1
+"3851","MN",10024,"483 AMSTERDAM AVENUE","483-85 AMSTERDAM AVEN",1900,"neo-Grec","Brick","Residential, multi-family",40.785875,-73.976326,1
+"9209","QN",11372,"34-27 84 STREET","JAMES E MINARIK",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.753013,-73.883,1
+"1569","MN",10014,"51 7 AVENUE","W & W REALTY ASSOCIAT",1926,"Arts & Crafts, altered","Brick","Residential, multi-family",40.731418,-74.004048,3
+"3340","MN",10023,"121 WEST 69 STREET","TOPPER, MAUREEN",1900,"Romanesque Revival","Brownstone","Residential",40.775819,-73.980976,2
+"3508","MN",10024,"373 AMSTERDAM AVENUE","BRUSCO WEST 78TH STRE",1900,"Romanesque Revival","Brick","Residential, multi-family",40.782043,-73.97784,2
+"640","MN",10003,"116 2 AVENUE","116 2ND AVENUE LLC",1920,"neo-Grec","Red Brick","Residential, multi-family",40.72782,-73.987765,1
+"6968","BK",11215,"457 13 STREET","THORNBURG  DEVIN",1901,"Romanesque Revival","Not determined","Residential",40.663078,-73.980648,1
+"6624","BK",11217,"43 8 AVENUE","SABATINI, GARRY JAMES",1899,"neo-Grec","Not determined","Residential",40.674335,-73.972371,1
+"6753","BK",11215,"481 1 STREET","JOHN F KOOS",1901,"French neo-Grec","Brownstone","Residential",40.671193,-73.97646,1
+"7289","BK",11225,"195 LEFFERTS AVENUE","CASTLE, JENNIFER CARO",1901,"French Renaissance","Brick","Residential, multi-family",40.662104,-73.954949,2
+"8349","BK",11222,"37 GREENPOINT AVENUE","NORTH BERRY CAPITAL G",1931,"German Renaissance Revival","Brick","Industrial, factory",40.729756,-73.958998,1
+"3412","MN",10023,"112 WEST 72 STREET","OWNER / AGENT",1905,"neo-Georgian","Brick","Commercial, hotel",40.777685,-73.97947,2
+"3888","MN",10024,"163 WEST 87 STREET","DAVIS, WADE C",1906,"Renaissance Revival","Stone","Residential",40.78788,-73.973364,1
+"1069","MN",10012,"86 MAC DOUGAL STREET","86 MACDOUGAL STREET,",1899,"neo-Federal","Brick","Residential",40.728682,-74.001588,1
+"7411","BK",11233,"381 MAC DONOUGH STREET","WRIGHT TONI",1899,"Renaissance Revival","Brownstone","Residential, multi-family",40.682494,-73.930904,1
+"5300","MN",10031,"844 ST NICHOLAS AVENUE","RAHMAN, MOHAMMED Z",1800,"Beaux-Arts","Brick","Residential",40.828916,-73.942127,1
+"385","MN",10013,"53 NORTH MOORE STREET","ERIC GREGG",1910,"neo-Renaissance","Tan Brick","Commercial, warehouse",40.72036,-74.008525,1
+"9173","QN",11372,"34-20 85 STREET","GLENN C STONE",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.753292,-73.882126,1
+"6882","BK",11215,"571 7 STREET","SHEEHAN, MEGAN",1920,"neo-Renaissance","Limestone","Residential",40.666558,-73.977348,1
+"325","MN",10013,"175 WEST BROADWAY","175 WEST BROADWAY REA",1915,"neo-Grec","Brick","Commercial, store and lofts",40.717879,-74.007352,1
+"7823","BK",11238,"382 VANDERBILT AVENUE","DELUCCA, ADRIAN",1899,"neo-Grec","Brownstone","Residential",40.685747,-73.968371,1
+"3789","MN",10024,"145 WEST 79 STREET","145 WEST 79TH ST OWNE",1928,"Gothic","Brick","Residential, multi-family",40.782515,-73.976796,1
+"8235","BK",11238,"159 LAFAYETTE AVENUE","155-159 LAFAYETTE OWN",1920,"Palladian","Brick","Residential, multi-family",40.687573,-73.971417,1
+"3059","MN",10016,"152 EAST 38 STREET","FLORES, KATHRYN",1901,"Greek Revival","Brick","Residential, single family",40.748618,-73.977194,1
+"3520","MN",10024,"143 WEST 78 STREET","THOMAS D STEINER",1901,"Romanesque Revival","Stone","Residential",40.781818,-73.977262,1
+"3367","MN",10023,"106 WEST 71 STREET","BORGLUM REALTY CORP",1900,"neo-Grec","Brownstone","Residential",40.776955,-73.979824,2
+"6952","BK",11215,"495 12 STREET","495 RAR REALTY LLC",1920,"Neoclassical","Brick","Residential, multi-family",40.66341,-73.979584,1
+"1157","MN",10012,"125 MAC DOUGAL STREET","119 W. 3RD ST. REALTY",1900,"Federal","Brick","Residential",40.730527,-74.000054,2
+"7790","BK",11238,"227 GREENE AVENUE","FRANK J LOPREST",1905,"neo-Grec","Brownstone","Residential",40.687068,-73.962817,2
+"7038","BK",11238,"192 ST MARKS AVENUE","FIDELIS MAXIMUS LLC",1931,"Renaissance Revival","Brick","Residential, multi-family",40.678839,-73.969993,1
+"9152","QN",11372,"34-32 84 STREET","SEAN M GIBNEY",1935,"neo-Tudor","Brick","Residential",40.752958,-73.883011,1
+"7446","BK",11233,"382 STUYVESANT AVENUE","JAMES C. LOMAX CONSTR",1910,"Romanesque Revival","Limestone","Residential",40.681559,-73.932387,2
+"1492","MN",10014,"420 HUDSON STREET","ROSZAK, SARA JANE",1910,"Italianate","Brick","Residential",40.730436,-74.006808,1
+"388","MN",10013,"118 HUDSON STREET","118 & 120 HUDSON STRE",1915,"Renaissance Revival","Cast Iron","Commercial, store and lofts",40.719855,-74.00859,2
+"9267","QN",11372,"34-48 88 STREET","LIU, YA CHAO",1935,"neo-Georgian","Red Brick","Outbuilding, garage",40.752989,-73.879225,1
+"3992","MN",10024,"314 WEST 83 STREET","CURI, DANIELLE A",1900,"Renaissance Revival","Brownstone","Residential",40.787196,-73.97994,1
+"9947","SI",10305,"33 BELAIR ROAD","BELAIR ROAD APT LLC",1880,"Queen Anne","Clapboard","Residential, single family",40.611022,-74.0655,1
+"9180","QN",11372,"34-38 85 STREET","JOSE MARTINEZ",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.753067,-73.882083,1
+"442","MN",10013,"404 BROADWAY","KEDZKIDZ REALTY, LLC",1915,"Mid-20th century Commercial","Masonry","Commercial, store and offices",40.718856,-74.002334,2
+"7985","BK",11238,"363 GRAND AVENUE","MIRACULOUS SOLUTIONS,",1930,"Queen Anne","Rubble Stone","Residential, multi-family",40.685158,-73.962151,1
+"7558","BK",11216,"172 MAC DONOUGH STREET","BRAITHWAITE, DOROTHYC",1899,"Queen Anne","Brownstone","Residential",40.681492,-73.939497,1
+"78","MN",10004,"1 BROADWAY","LOGANY",1900,"Queen Anne (original)","Masonry","Commercial, office building",40.704785,-74.014099,2
+"3571","MN",10023,"322 WEST 71 STREET","322 WEST 71ST STREET",1901,"Romanesque Revival","Masonry","Residential",40.779352,-73.985543,1
+"2975","MN",10003,"201 PARK AVENUE SOUTH","ISTITHMAR HOTELS UNIO",1911,"Modern French","Granite","Commercial, offices",40.736644,-73.988944,1
+"6863","BK",11215,"583 6 STREET","TINTORI  JOHN",1910,"Georgian","Brick","Residential, multi-family",40.667021,-73.976559,1
+"8565","BK",11225,"125 MIDWOOD STREET","SHIVERS, PETER D",1905,"neo-Renaissance","Brick","Residential",40.65978,-73.956114,1
+"7094","BK",11216,"1463 PACIFIC STREET","INDEPENDANT LIVING AS",1920,"Romanesque Revival","Brick","Residential",40.677294,-73.943016,2
+"3703","MN",10024,"26 WEST 88 STREET","ZEVSON REALTY CO., L.",1900,"Romanesque","Brownstone","Residential",40.786976,-73.969312,1
+"4477","MN",10021,"122 EAST 71 STREET","HWH 71, LLC",1910,"neo-Grec (original)","Brownstone","Residential",40.770029,-73.963407,1
+"3635","MN",10024,"7 WEST 82 STREET","7 WEST 82",1890,"Queen Anne","Brownstone","Residential",40.782945,-73.971766,4
+"6926","BK",11215,"619 11 STREET","MICHALOWSKI, RENATA",1899,"Romanesque Revival","Brownstone","Residential",40.663915,-73.978885,1
+"4611","MN",10028,"16 EAST 84 STREET","",1947,"neo-Federal","Flemish-Bond Brick","Residential, single-family",40.779879,-73.960578,1
+"3436","MN",10023,"136 WEST 73 STREET","BAUCHMAN, GAIL BETH",1910,"Queen Anne","Brownstone","Residential",40.778577,-73.979455,1
+"9350","QN",11372,"35-55 87 STREET","J F WINDLE",1930,"neo-Georgian","Red Brick","Outbuilding, garage",40.751072,-73.879802,2
+"2744","MN",10010,"676 AVENUE OF THE AMER","APHIS REALTY, INC.",1910,"Modern","Brick","Commercial, stores",40.7416112,-73.9933672,5
+"6488","BK",11232,"4302 4 AVENUE","BROOKLYN POLICE CASTL",1931,"Venetian Romanesque","Limestone","Civic, police station",40.650305,-74.008602,2
+"9765","QN",11363,"236-12 CENTER DRIVE","MENGLER, CHRISTOPHER",1925,"Italianate","Wood Frame","Residential, single-family",40.77306,-73.750325,1
+"3735","MN",10024,"28 WEST 90 STREET","ELLIANA 90 LLC",1930,"Francois I","Brownstone","Residential",40.788393,-73.968741,1
+"9262","QN",11372,"34-44 88 STREET","CHOWDHURY, KHALIQUE",1935,"neo-Georgian","Red Brick","Residential",40.753072,-73.879243,1
+"5186","MN",10031,"476 WEST 142 STREET","ROSS, DAVID S",1920,"Spanish Renaissance","Limestone","Residential",40.823043,-73.948376,1
+"1589","MN",10014,"304 BLEECKER STREET","304 BLEECKER TREVI LL",1910,"Federal (late)(original)","Flemish-Bond Brick","Mixed-use, commercial & residential",40.732635,-74.003817,1
+"6222","BK",11201,"417 HICKS STREET","",1996,"Romanesque Revival","Brick","Residential, multi-family",40.6879773333333,-73.9990913333333,3
+"6818","BK",11215,"562 3 STREET","KONTOKOSTA,  CONSTANT",1901,"Romanesque Revival","Brownstone","Residential",40.669678,-73.97685,1
+"3947","MN",10024,"494 AMSTERDAM AVENUE","WEST EIGHTIES GROUP I",1940,"Queen Anne","Brick","Residential, multi-family",40.7863783333333,-73.9761686666667,3
+"3745","MN",10024,"63 WEST 90 STREET","MARC CUSUMANO",1900,"Romanesque Revival","Brick","Residential",40.788805,-73.969683,1
+"1906","MN",10014,"130 WEST 10 STREET","10TH ST. WEST VILLAGE",1910,"Greek Revival","Brick","Residential",40.734636,-74.000263,3
+"7083","BK",11238,"375 STERLING PLACE","DELORES ERNANDEZ",1901,"Renaissance Revival","Brownstone","Residential",40.675116,-73.965676,1
+"6499","BK",11217,"103 PARK PLACE","GROSSFIELD RENA E",1899,"French","Brownstone","Residential",40.678393,-73.974943,1
+"8523","BK",11225,"67 MIDWOOD STREET","TAYLOR COLE PROPERTIE",1910,"neo-Renaissance","Roman Brick","Residential",40.659633,-73.958472,3
+"237","MN",10013,"110 READE STREET","110 READE STREET, LLC",1900,"Second Empire","Masonry","Commercial, store and lofts",40.715902,-74.008557,1
+"6766","BK",11215,"535 1 STREET","JOHNSON, SCOTT LOCHWO",1901,"Regency","Limestone","Residential",40.67018,-73.974359,1
+"3136","MN",10023,"11 WEST 67 STREET","HOTEL DES ARTISTES IN",1917,"Tudor","Brick","Residential, multi-family",40.773219,-73.978702,1
+"1647","MN",10014,"321 AVENUE OF THE AMER","321 SIXTH AVENUE PART",1920,"Italianate","Brick","Residential",40.730996,-74.001461,1
+"3402","MN",10023,"140 WEST 72 STREET","140-154 W. 72 REALTY",1920,"Moorish","Brownstone","Mixed-use, commercial & residential",40.7779745384615,-73.9801508461538,13
+"3595","MN",10023,"325 WEST END AVENUE","325 W END AVE OWNERS,",1916,"Jacobean","Orange Brick","Residential, multi-family",40.782036,-73.98287,1
+"3507","MN",10024,"130 WEST 78 STREET","130 W. 78TH ST.",1910,"Renaissance Revival","Brick","Residential",40.781703,-73.977031,1
+"3761","MN",10025,"34 WEST 94 STREET","COLUMBIA GRAMMAR AND",1910,"Romanesque Revival","Brick","Residential",40.790802,-73.966685,1
+"5967","BK",11201,"61 ATLANTIC AVENUE","EUMORPHA LLC",1910,"Modern","Brick","Residential",40.691307,-73.998186,1
+"383","MN",10013,"53 NORTH MOORE STREET","ERIC GREGG",1910,"neo-Renaissance","Tan Brick","Commercial, warehouse",40.72036,-74.008525,1
+"9194","QN",11372,"34-49 84 STREET","SCHWISTER, DANA",1930,"neo-Georgian","Red Brick","Residential",40.752612,-73.882925,3
